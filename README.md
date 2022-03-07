@@ -1,1 +1,3 @@
-# prueba
+# Metodos Estadísticos
+
+- 3 k MEANS
